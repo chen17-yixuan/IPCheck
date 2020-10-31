@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PingIpTool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/PingIpTool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
